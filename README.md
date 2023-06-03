@@ -1,4 +1,4 @@
-# 70 years of Formula 1 - An Exploratory Data Analysis -->
+# 70 years of Formula 1 Cars- An Exploratory Data Analysis -->
 
 ### Introduction:
 - Formula 1, the pinnacle of motorsports, is celebrating its 70th anniversary this year.
